@@ -1,0 +1,12 @@
+# Abaikan environment dan file sistem
+.venv/
+.uas/
+__pycache__/
+.ipynb_checkpoints/
+
+# Jupyter Notebook autosave
+*.checkpoint.ipynb
+
+# File OS
+Thumbs.db
+.DS_Store
